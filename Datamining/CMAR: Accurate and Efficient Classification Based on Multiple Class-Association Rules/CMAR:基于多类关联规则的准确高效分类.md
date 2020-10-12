@@ -1,5 +1,8 @@
 CMAR:基于多类关联规则的准确高效分类
 ====
-#标题一
+Wenmin Li Jiawei Han Jian Pei
+摘要
+--
+
 
 
