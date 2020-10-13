@@ -313,9 +313,12 @@ CMAR比较了这些群体的影响，并向最强的群体屈服。
 定义规则$R$的$max \chi^2$如下。
 
 $$
-max \chi^2 = (min { sup(P),sup(c) } - \frac{sup(P)sup(c)}{|T|})^2 |T| e
+max \chi^2 = (min \{ sup(P),sup(c) \} - \frac{sup(P)sup(c)}{|T|})^2 |T| e
 $$
 
+$$
+e = \frac{1}{sup(P)sup(c)}+\frac{1}{sup(P)(|T|-sup(c))} + \frac{1}{(|T|-sup(P))sup(c)} + \frac{1}{(|T|-sup(P))(|T|-sup(c))}
+$$
 
 
 
